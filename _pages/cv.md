@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+- **M.Sc. in Structural Engineering**, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2023–Present  
+- **B.Sc. in Civil Engineering**, Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh, 2021
+- 
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Lecturer**, Department of Civil Engineering, World University of Bangladesh, Dhaka, Bangladesh  
+  **July 2022–Present**
+  - Teach undergraduate Civil Engineering courses, including Mechanics of Solids, Analysis of Statically Determinate Structures, Analysis of Statically Indeterminate Structures, ETABS-Based Structural Modeling and Analysis, and Engineering Materials.
+  - Supervise and assist undergraduate thesis projects related to structural engineering and construction materials.
+  - Guide students in structural modeling, experimental data interpretation, technical report writing, and presentation preparation.
   
 Skills
 ======
