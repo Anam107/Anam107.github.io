@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-4810-4916"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Afra-Provasha"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58493433800"
   zotero           : # URL
@@ -84,8 +84,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
