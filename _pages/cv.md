@@ -16,8 +16,9 @@ Education
   
 Professional experience
 ======
-- **Lecturer**, Department of Civil Engineering, World University of Bangladesh, Dhaka, Bangladesh  
-  **July 2022–Present**
+**Lecturer**  
+Department of Civil Engineering, World University of Bangladesh, Dhaka, Bangladesh  
+**July 2022–Present**
  
 Research Interest
 ======  
@@ -35,14 +36,13 @@ Publications
 - Rahman, T., Sultana, S., Ahmed, T., Momin, M. F., & Afra Anam Provasha. (2024). Deep symbolic regression for numerical formulation of fundamental period in concentrically steel-braced RC frames. Asian Journal of Civil Engineering, 25(6), 4725–4744. https://doi.org/10.1007/s42107-024-01076-y
 - Biswas, R. K., Bin Ahmed, F., Haque, Md. E., Provasha, A. A., Hasan, Z., Hayat, F., & Sen, D. (2021). Effects of Steel Fiber Percentage and Aspect Ratios on Fresh and Harden Properties of Ultra-High Performance Fiber Reinforced Concrete. Applied Mechanics, 2(3), 501–515. https://doi.org/10.3390/applmech2030028
  
-Skills
+Software and Technical skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Structural Modeling:** ETABS, SAP2000 
+- **Computational Structural Analysis:** Building working knowledge of OpenSees/OpenSeesPy.
+- **Programming and Data Analysis:** Python, Excel 
+- **Data-Driven Research Methods:** Developing research capability in the application of machine learning in structural engineering
+- **Document Preparation:** Microsoft Word, PowerPoint.
   
 Teaching
 ======
@@ -50,6 +50,3 @@ Teaching
 - Course instruction includes lectures, problem-solving sessions, laboratory guidance, academic advising, and assessment of student work.
 - Supervision and guidance of undergraduate thesis projects related to structural engineering and concrete technology.
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
