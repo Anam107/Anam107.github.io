@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Move footer lower on short pages */
+#main {
+  min-height: 78vh;
+}
