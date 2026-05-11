@@ -42,7 +42,7 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Move footer lower on short pages */
-#main {
-  min-height: 78vh;
+/* Push footer lower on short pages */
+.page__footer {
+  margin-top: 320px !important;
 }
